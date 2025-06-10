@@ -4,6 +4,8 @@
 **adawev/adawev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/USERNAME.svg)](https://user-badge.committers.top/uzbekistan/USERNAME)
+[![committers.top badge](https://org-badge.committers.top/uzbekistan/ORGNAME.svg)](https://org-badge.committers.top/uzbekistan/ORGNAME)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
