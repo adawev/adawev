@@ -1,30 +1,29 @@
-# Hey, I'm Diyor! 👋
+# Hi, I'm Diyor! 👨‍💻
 
-## 👨‍💻 About Me
-I'm a passionate **Software Engineer** from Uzbekistan, dedicated to building user-friendly and innovative solutions. I love turning ideas into reality through clean code and modern technologies. My focus is on creating impactful projects while continuously learning and growing in the tech world.
+Crafting code, smashing ping pong balls! 🚀
 
-## 🛠️ Tech Stack
+## About Me
+I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functional apps with a passion for clean code.
+
+## 🛠️ Skills
 - **Frontend**: React, JavaScript, SASS
-- **Backend**: Node.js, Java, Spring
-- **Other**: Python
-- **Tools**: Git, Webpack, npm/yarn
+- **Backend**: Node.js, Java, Spring,Python
+- **Other**: Git
 
-## 🚀 What I'm Up To
-- Working on exciting web applications and backend systems
-- Contributing to open-source projects
-- Exploring new frameworks and tools to stay ahead in tech
+## 🌟 Currently
+- Building cool web and backend projects
+- Diving into open-source contributions
 
-## 🎮 Hobbies & Interests
-- 🏓 Playing ping pong to unwind
-- 💻 Coding and experimenting with new tech stacks
-- Sharing knowledge and connecting with the dev community
+## 🎯 Hobbies
+- 🏓 Ping pong pro
+- 💻 Coding for fun
 
-## 📫 Connect With Me
-- 🌐 [Portfolio](https://diyorspartfolio.netlify.app/#)
-- 📸 [Instagram](https://instagram.com/adaweev)
-- ✈️ [Telegram](https://t.me/adawev)
+## 📬 Connect
+- [Portfolio](https://diyorspartfolio.netlify.app/#)
+- [Instagram](https://instagram.com/adaweev)
+- [Telegram](https://t.me/adawev)
 
 ## ⚡ Fun Fact
-I can debug code and smash a ping pong ball with equal precision! 😎
+I can debug a bug and win a ping pong match in the same day! 😎
 
-Thanks for visiting my profile! Let's build something awesome together. 🚀
+Ready to collaborate? Let's create something epic! ✨
