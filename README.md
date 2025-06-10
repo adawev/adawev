@@ -6,8 +6,8 @@ Crafting code, smashing ping pong balls! 🚀
 I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functional apps with a passion for clean code.
 
 ## 🛠️ Skills
-- **Frontend**: React, JavaScript, SASS
-- **Backend**: Node.js, Java, Spring,Python
+- **Frontend**: React, JavaScript
+- **Backend**: Java, Python
 - **Other**: Git
 
 ## 🌟 Currently
