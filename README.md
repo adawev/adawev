@@ -1,18 +1,25 @@
-## Hi there 👋
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/USERNAME.svg)](https://user-badge.committers.top/uzbekistan/USERNAME)
-[![committers.top badge](https://org-badge.committers.top/uzbekistan/ORGNAME.svg)](https://org-badge.committers.top/uzbekistan/ORGNAME)
-<!--
-**adawev/adawev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Diyor! 👋
+👨‍💻 About Me
+I'm a passionate Software Engineer from Uzbekistan, dedicated to building user-friendly and innovative solutions. I love turning ideas into reality through clean code and modern technologies. My focus is on creating impactful projects while continuously learning and growing in the tech world.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Frontend: React, JavaScript, SASS
+Backend: Node.js, Java, Spring
+Other: Python
+Tools: Git, Webpack, npm/yarn
+🚀 What I'm Up To
+Working on exciting web applications and backend systems
+Contributing to open-source projects
+Exploring new frameworks and tools to stay ahead in tech
+🎮 Hobbies & Interests
+🏓 Playing ping pong to unwind
+💻 Coding and experimenting with new tech stacks
+Sharing knowledge and connecting with the dev community
+📫 Connect With Me
+🌐 Portfolio
+📸 Instagram
+✈️ Telegram
+⚡ Fun Fact
+I can debug code and smash a ping pong ball with equal precision! 😎
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! Let's build something awesome together. 🚀
