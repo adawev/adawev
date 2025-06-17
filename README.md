@@ -61,13 +61,12 @@ I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functiona
     </picture>
   </a>
 
-  <a href="https://t.me/adawev" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="32" height="32" alt="Telegram" />
-    </picture>
-  </a>
+<a href="https://t.me/adawev" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="32" height="32" alt="Telegram" style="background-color:#000000; border-radius:6px; padding:4px;" />
+</a>
+
+
+
 </p>
 
 ---
