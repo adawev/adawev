@@ -19,7 +19,3 @@ I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functiona
 - [Instagram](https://instagram.com/adaweev)
 - [Telegram](https://t.me/adawev)
 
-## ⚡ Fun Fact
-I can debug a bug and win a ping pong match in the same day! 😎
-
-Ready to collaborate? Let's create something epic! ✨
