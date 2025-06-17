@@ -69,4 +69,3 @@ I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functiona
 
 </p>
 
----
