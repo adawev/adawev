@@ -10,10 +10,6 @@ I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functiona
 - **Backend**: Java, Python
 - **Other**: Git
 
-## 🌟 Currently
-- Building cool web and backend projects
-- Diving into open-source contributions
-
 ## 🎯 Hobbies
 - 🏓 Ping pong pro
 - 💻 Coding for fun
