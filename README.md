@@ -31,10 +31,6 @@ I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functiona
 </p>
 
 
-## 🎯 Hobbies
-- 🏓 Ping pong pro
-- 💻 Gaming for fun
-
 ### Socials
 <p align="left">
   <a href="https://www.github.com/adawev" target="_blank" rel="noreferrer">
