@@ -33,7 +33,7 @@ I'm a **Software Engineer** from Uzbekistan, turning ideas into sleek, functiona
 
 ## 🎯 Hobbies
 - 🏓 Ping pong pro
-- 💻 Coding for fun
+- 💻 Gaming for fun
 
 ### Socials
 <p align="left">
